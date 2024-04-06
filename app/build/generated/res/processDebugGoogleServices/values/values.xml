@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1024721697532</string>
+    <string name="google_api_key" translatable="false">AIzaSyAf-yx5pTHqovxLhL_1O7kZwfiCxMQnGz0</string>
+    <string name="google_app_id" translatable="false">1:1024721697532:android:e764625864ae858e57f579</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAf-yx5pTHqovxLhL_1O7kZwfiCxMQnGz0</string>
+    <string name="google_storage_bucket" translatable="false">blur-dating-application.appspot.com</string>
+    <string name="project_id" translatable="false">blur-dating-application</string>
+</resources>

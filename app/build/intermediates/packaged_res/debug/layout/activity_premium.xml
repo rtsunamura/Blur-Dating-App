@@ -1,0 +1,172 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".PremiumActivity">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Blur"
+        android:textColor="@color/primary"
+        android:textSize="30sp"
+        android:textStyle="bold"/>
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/textViewSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:text="The Blur Premium Plan"
+        android:textSize="18sp"
+        android:textStyle="italic"/>
+
+    <!-- Description -->
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewSubtitle"
+        android:layout_marginTop="16dp"
+        android:text="Upgrade to Blur Premium for an enhanced dating experience."/>
+
+    <!-- Features -->
+    <TextView
+        android:id="@+id/textViewFeaturesTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewDescription"
+        android:layout_marginTop="16dp"
+        android:text="Key Features"
+        android:textColor="@color/darker_primary"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:id="@+id/featuresLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewFeaturesTitle"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical">
+
+        <!-- Feature 1 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="✓ Automatic matching for instant connections."/>
+
+        <!-- Feature 2 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="✓ Enhanced chat functionality for better communication."/>
+
+        <!-- Feature 3 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="✓ Increased chances at finding love through advanced algorithms."/>
+
+        <!-- Feature 4 -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="✓ Access to premium profiles and exclusive content."/>
+
+    </LinearLayout>
+
+    <!-- Price -->
+    <TextView
+        android:id="@+id/textViewPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/featuresLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="$14.99"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <!-- Billing Info -->
+    <EditText
+        android:id="@+id/editTextBillingInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewPrice"
+        android:layout_marginTop="16dp"
+        android:hint="Billing Info"/>
+
+    <!-- Banking Info -->
+    <EditText
+        android:id="@+id/editTextBankingInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextBillingInfo"
+        android:layout_marginTop="16dp"
+        android:hint="Banking Info"/>
+
+    <!-- Credit Card Info -->
+    <EditText
+        android:id="@+id/editTextCreditCardInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextBankingInfo"
+        android:layout_marginTop="16dp"
+        android:inputType="textPassword"
+        android:hint="Credit Card Info"/>
+
+    <!-- Expiration Date -->
+    <EditText
+        android:id="@+id/editTextExpirationDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextCreditCardInfo"
+        android:layout_marginTop="16dp"
+        android:hint="Expiration Date"/>
+
+    <!-- CSV -->
+    <EditText
+        android:id="@+id/editTextCsv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextExpirationDate"
+        android:layout_marginTop="16dp"
+        android:inputType="textPassword"
+        android:hint="CSV"/>
+
+    <!-- Subscribe Button -->
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextCsv"
+        android:layout_marginTop="16dp"
+        android:text="Subscribe"/>
+
+    <!-- Cancel Button -->
+    <Button
+        android:id="@+id/buttonCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonSave"
+        android:layout_marginTop="16dp"
+        android:text="Cancel"/>
+
+</RelativeLayout>
+
+
+
+
+
+

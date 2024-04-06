@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res"><file name="add_circle" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\add_circle.xml" qualifiers="" type="drawable"/><file name="ad_premium" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\ad_premium.png" qualifiers="" type="drawable"/><file name="arrow_down" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\arrow_down.xml" qualifiers="" type="drawable"/><file name="arrow_icon" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\arrow_icon.xml" qualifiers="" type="drawable"/><file name="automatic" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\automatic.xml" qualifiers="" type="drawable"/><file name="back" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\back.xml" qualifiers="" type="drawable"/><file name="back_button" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\back_button.xml" qualifiers="" type="drawable"/><file name="bda_logo" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\bda_logo.png" qualifiers="" type="drawable"/><file name="black_gradation" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\black_gradation.xml" qualifiers="" type="drawable"/><file name="button_corner_20dp" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\button_corner_20dp.xml" qualifiers="" type="drawable"/><file name="chat" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\chat.xml" qualifiers="" type="drawable"/><file name="circle" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\circle.xml" qualifiers="" type="drawable"/><file name="circular_background" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\circular_background.xml" qualifiers="" type="drawable"/><file name="gradation_black" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\gradation_black.xml" qualifiers="" type="drawable"/><file name="home" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\home.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="left_message_bg" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\left_message_bg.xml" qualifiers="" type="drawable"/><file name="lens" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\lens.xml" qualifiers="" type="drawable"/><file name="logo_activity" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_activity.xml" qualifiers="" type="drawable"/><file name="logo_blood" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_blood.xml" qualifiers="" type="drawable"/><file name="logo_body_type" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_body_type.xml" qualifiers="" type="drawable"/><file name="logo_child" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_child.xml" qualifiers="" type="drawable"/><file name="logo_dayoff" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_dayoff.xml" qualifiers="" type="drawable"/><file name="logo_delete" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_delete.xml" qualifiers="" type="drawable"/><file name="logo_drink" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_drink.xml" qualifiers="" type="drawable"/><file name="logo_edit" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_edit.xml" qualifiers="" type="drawable"/><file name="logo_eye" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_eye.xml" qualifiers="" type="drawable"/><file name="logo_face" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_face.xml" qualifiers="" type="drawable"/><file name="logo_food" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_food.xml" qualifiers="" type="drawable"/><file name="logo_gaming" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_gaming.xml" qualifiers="" type="drawable"/><file name="logo_hair_color" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_hair_color.xml" qualifiers="" type="drawable"/><file name="logo_height" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_height.xml" qualifiers="" type="drawable"/><file name="logo_info" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_info.xml" qualifiers="" type="drawable"/><file name="logo_love" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_love.xml" qualifiers="" type="drawable"/><file name="logo_love_120" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_love_120.xml" qualifiers="" type="drawable"/><file name="logo_music" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_music.xml" qualifiers="" type="drawable"/><file name="logo_reading" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_reading.xml" qualifiers="" type="drawable"/><file name="logo_skip" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_skip.xml" qualifiers="" type="drawable"/><file name="logo_skip_120" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_skip_120.xml" qualifiers="" type="drawable"/><file name="logo_smoking" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_smoking.xml" qualifiers="" type="drawable"/><file name="logo_sport" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_sport.xml" qualifiers="" type="drawable"/><file name="logo_traveling" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_traveling.xml" qualifiers="" type="drawable"/><file name="logo_weight" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_weight.xml" qualifiers="" type="drawable"/><file name="logo_work" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_work.xml" qualifiers="" type="drawable"/><file name="logo_workout" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\logo_workout.xml" qualifiers="" type="drawable"/><file name="next" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\next.xml" qualifiers="" type="drawable"/><file name="notification" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\notification.xml" qualifiers="" type="drawable"/><file name="person" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\person.xml" qualifiers="" type="drawable"/><file name="person_2" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\person_2.xml" qualifiers="" type="drawable"/><file name="receive_message_edit" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\receive_message_edit.xml" qualifiers="" type="drawable"/><file name="right_message_bg" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\right_message_bg.xml" qualifiers="" type="drawable"/><file name="send_button" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\send_button.xml" qualifiers="" type="drawable"/><file name="send_message_edit" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\send_message_edit.xml" qualifiers="" type="drawable"/><file name="setting" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\setting.xml" qualifiers="" type="drawable"/><file name="unblur_request_indicator" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\unblur_request_indicator.xml" qualifiers="" type="drawable"/><file name="unread_count_background" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable\unread_count_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_chat" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_chat.xml" qualifiers="" type="layout"/><file name="activity_chatroom_model" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_chatroom_model.xml" qualifiers="" type="layout"/><file name="activity_chat_room_model" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_chat_room_model.xml" qualifiers="" type="layout"/><file name="activity_edit_profile" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_edit_profile.xml" qualifiers="" type="layout"/><file name="activity_launch" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_launch.xml" qualifiers="" type="layout"/><file name="activity_login" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_premium" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_premium.xml" qualifiers="" type="layout"/><file name="activity_profit_monitoring" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_profit_monitoring.xml" qualifiers="" type="layout"/><file name="activity_register" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="activity_setting" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_setting.xml" qualifiers="" type="layout"/><file name="activity_set_up_all_user_profile" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_all_user_profile.xml" qualifiers="" type="layout"/><file name="activity_set_up_interest" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_interest.xml" qualifiers="" type="layout"/><file name="activity_set_up_profile" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_profile.xml" qualifiers="" type="layout"/><file name="activity_set_up_profile_physical_feature" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_profile_physical_feature.xml" qualifiers="" type="layout"/><file name="activity_set_up_user_info" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_user_info.xml" qualifiers="" type="layout"/><file name="activity_set_up_user_info2" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_user_info2.xml" qualifiers="" type="layout"/><file name="activity_set_up_user_info3" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_user_info3.xml" qualifiers="" type="layout"/><file name="activity_set_up_user_profile" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_set_up_user_profile.xml" qualifiers="" type="layout"/><file name="activity_verify_age" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\activity_verify_age.xml" qualifiers="" type="layout"/><file name="chat_messages" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\chat_messages.xml" qualifiers="" type="layout"/><file name="fragment_automatic_matching" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_automatic_matching.xml" qualifiers="" type="layout"/><file name="fragment_chat" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_chat.xml" qualifiers="" type="layout"/><file name="fragment_explore" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_explore.xml" qualifiers="" type="layout"/><file name="fragment_likes_you" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_likes_you.xml" qualifiers="" type="layout"/><file name="fragment_manual_matching" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_manual_matching.xml" qualifiers="" type="layout"/><file name="fragment_my_page" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_my_page.xml" qualifiers="" type="layout"/><file name="fragment_notification" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\fragment_notification.xml" qualifiers="" type="layout"/><file name="item_chatroom" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\item_chatroom.xml" qualifiers="" type="layout"/><file name="item_spot" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\item_spot.xml" qualifiers="" type="layout"/><file name="left_message_layout" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\left_message_layout.xml" qualifiers="" type="layout"/><file name="popup_image" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\popup_image.xml" qualifiers="" type="layout"/><file name="right_message_layout" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\layout\right_message_layout.xml" qualifiers="" type="layout"/><file name="navigation" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\menu\navigation.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\values\colors.xml" qualifiers=""><color name="primary">#FFAE37</color><color name="darker_primary">#D18B1F</color><color name="secondary">#FAB148</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color><color name="off_white">#FDFDFD</color><color name="gray">#8D8D8D</color><color name="off_gray">#ECECEC</color><color name="red">#F44336</color><color name="blue">#BEEBFF</color><color name="light_gray">#D3D3D3</color></file><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Blur</string><string-array name="gender_list">
+        <item>-</item>
+        <item>Man</item>
+        <item>Woman</item>
+        <item>Other</item>
+    </string-array><string-array name="number_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array><string-array name="decimal_array">
+        <item>.0</item>
+        <item>.1</item>
+        <item>.2</item>
+        <item>.3</item>
+        <item>.4</item>
+        <item>.5</item>
+        <item>.6</item>
+        <item>.7</item>
+        <item>.8</item>
+        <item>.9</item>
+    </string-array><string-array name="hair_color_list">
+        <item>-</item>
+        <item>Brown</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Gray</item>
+        <item>Hazel</item>
+        <item>Amber</item>
+        <item>Red</item>
+        <item>Other</item>
+    </string-array><string-array name="eye_color_list">
+        <item>-</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Blonde</item>
+        <item>Red</item>
+        <item>Gray</item>
+        <item>Silver</item>
+        <item>Platinum</item>
+        <item>Dark Brown</item>
+        <item>Auburn</item>
+        <item>Champagne Blonde</item>
+        <item>Other</item>
+    </string-array><string-array name="body_type_list">
+        <item>-</item>
+        <item>Slim</item>
+        <item>Muscular</item>
+        <item>Curvy</item>
+        <item>Chubby</item>
+        <item>Pear-shaped</item>
+        <item>Apple-shaped</item>
+        <item>Proportional</item>
+        <item>Hourglass</item>
+        <item>Other</item>
+    </string-array><string-array name="face_type_list">
+        <item>-</item>
+        <item>Cute</item>
+        <item>Active Cute</item>
+        <item>Feminine</item>
+        <item>Fresh</item>
+        <item>Soft Elegant</item>
+        <item>Elegant</item>
+        <item>Cool Casual</item>
+        <item>Casual</item>
+        <item>Other</item>
+    </string-array><string-array name="sport_list">
+        <item>-</item>
+        <item>American Football</item>
+        <item>Athletics</item>
+        <item>Archery</item>
+        <item>Badminton</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Boxing</item>
+        <item>Canoeing/Kayaking</item>
+        <item>Cricket</item>
+        <item>Cycling</item>
+        <item>Fencing</item>
+        <item>Figure Skating</item>
+        <item>Golf</item>
+        <item>Goalball</item>
+        <item>Hockey (Field)</item>
+        <item>Hockey (Ice)</item>
+        <item>Ice Hockey</item>
+        <item>Jiu-Jitsu</item>
+        <item>Judo</item>
+        <item>Karate</item>
+        <item>Lacrosse</item>
+        <item>Motorsports</item>
+        <item>Rowing</item>
+        <item>Rugby</item>
+        <item>Skiing</item>
+        <item>Skateboarding</item>
+        <item>Softball</item>
+        <item>Snowboarding</item>
+        <item>Speed Skating</item>
+        <item>Squash</item>
+        <item>Surfing</item>
+        <item>Synchronized Swimming</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+        <item>Volleyball</item>
+        <item>Water Polo</item>
+        <item>Winter Sports</item>
+        <item>Wrestling</item>
+        <item>Other</item>
+    </string-array><string-array name="music_list">
+        <item>-</item>
+        <item>Acoustic</item>
+        <item>Ambient</item>
+        <item>Alternative</item>
+        <item>Blues</item>
+        <item>Chillout</item>
+        <item>Classical</item>
+        <item>Country</item>
+        <item>Disco</item>
+        <item>Dubstep</item>
+        <item>EDM</item>
+        <item>Electronic</item>
+        <item>Folk</item>
+        <item>Funk</item>
+        <item>Gospel</item>
+        <item>Hard Rock</item>
+        <item>Hip Hop</item>
+        <item>House</item>
+        <item>J-Pop</item>
+        <item>Jazz</item>
+        <item>K-Pop</item>
+        <item>Latin</item>
+        <item>Metal</item>
+        <item>Opera</item>
+        <item>Punk</item>
+        <item>Pop</item>
+        <item>R-and-B</item>
+        <item>Rap</item>
+        <item>Reggae</item>
+        <item>Rock</item>
+        <item>Salsa</item>
+        <item>Soul</item>
+        <item>Techno</item>
+        <item>Trance</item>
+        <item>Trap</item>
+    </string-array><string-array name="gaming_list">
+        <item>-</item>
+        <item>Action Games</item>
+        <item>Adventure Games</item>
+        <item>Arcade Games</item>
+        <item>Board Games</item>
+        <item>Brain Games</item>
+        <item>Battle Royale Games</item>
+        <item>Card Games</item>
+        <item>Educational Games</item>
+        <item>Horror Games</item>
+        <item>Mobile Games</item>
+        <item>Multiplayer Online Battle Arena (MOBA)</item>
+        <item>Party Games</item>
+        <item>Platformer Games</item>
+        <item>Puzzle Games</item>
+        <item>Racing Games</item>
+        <item>Role-Playing Games</item>
+        <item>Rhythm Games</item>
+        <item>SandBox Games</item>
+        <item>Shooter Games</item>
+        <item>Simulation Games</item>
+        <item>Sports Games</item>
+        <item>Strategy Games</item>
+        <item>Quiz Games</item>
+    </string-array><string-array name="food_list">
+        <item>-</item>
+        <item>American Cuisine</item>
+        <item>Chinese Cuisine</item>
+        <item>French Cuisine</item>
+        <item>Greek Cuisine</item>
+        <item>Indian Cuisine</item>
+        <item>Italian Cuisine</item>
+        <item>Japanese Cuisine</item>
+        <item>Korean Cuisine</item>
+        <item>Mexican Cuisine</item>
+        <item>Middle Eastern Cuisine</item>
+        <item>Spanish Cuisine</item>
+        <item>Thai Cuisine</item>
+        <item>Vietnamese Cuisine</item>
+    </string-array><string-array name="traveling_list">
+        <item>-</item>
+        <item>Aegean Sea Cruise</item>
+        <item>Auckland, New Zealand</item>
+        <item>Arequipa, Peru</item>
+        <item>Antigua, Guatemala</item>
+        <item>Barcelona, Spain</item>
+        <item>Bali, Indonesia</item>
+        <item>Bangkok, Thailand</item>
+        <item>Banff, Canada</item>
+        <item>Beijing, China</item>
+        <item>Bergen, Norway</item>
+        <item>Berlin, Germany</item>
+        <item>Bern, Switzerland</item>
+        <item>Budapest, Hungary</item>
+        <item>Cairns, Australia</item>
+        <item>Cairo, Egypt</item>
+        <item>California Wine Country, USA</item>
+        <item>Canberra, Australia</item>
+        <item>Casablanca, Morocco</item>
+        <item>Colosseum, Rome, Italy</item>
+        <item>Crete, Greece</item>
+        <item>Cusco, Peru</item>
+        <item>Delphi, Greece</item>
+        <item>Denali National Park, Alaska, USA</item>
+        <item>Dubai, United Arab Emirates</item>
+        <item>Edinburgh, Scotland</item>
+        <item>Fiji</item>
+        <item>Fez, Morocco</item>
+        <item>Grand Canyon, USA</item>
+        <item>Grand Teton National Park, USA</item>
+        <item>Gold Coast, Australia</item>
+        <item>Goa, India</item>
+        <item>Guam</item>
+        <item>Hamburg, Germany</item>
+        <item>Hanoi, Vietnam</item>
+        <item>Hawaii, USA</item>
+        <item>Hiking</item>
+        <item>Ho Chi Minh City, Vietnam</item>
+        <item>Honolulu, Hawaii, USA</item>
+        <item>Hot Air Ballooning</item>
+        <item>Hue, Vietnam</item>
+        <item>Iguazu Falls, Brazil</item>
+        <item>Istanbul, Turkey</item>
+        <item>Jaipur, India</item>
+        <item>Jerusalem, Israel</item>
+        <item>Jet Skiing</item>
+        <item>Juneau, Alaska, USA</item>
+        <item>Kauai, Hawaii, USA</item>
+        <item>Kyoto, Japan</item>
+        <item>Lima, Peru</item>
+        <item>Lisbon, Portugal</item>
+        <item>London, UK</item>
+        <item>Lucerne, Switzerland</item>
+        <item>Luxor, Egypt</item>
+        <item>Madagascar</item>
+        <item>Machu Picchu, Peru</item>
+        <item>Maui, Hawaii, USA</item>
+        <item>Marrakech, Morocco</item>
+        <item>Mexico City, Mexico</item>
+        <item>Monaco</item>
+        <item>Montego Bay, Jamaica</item>
+        <item>Montreal, Canada</item>
+        <item>Moscow, Russia</item>
+        <item>Muscat, Oman</item>
+        <item>Nairobi, Kenya</item>
+        <item>Naples, Italy</item>
+        <item>New Orleans, USA</item>
+        <item>New York, USA</item>
+        <item>Niagara Falls, Canada/USA</item>
+        <item>Opera and Theater</item>
+        <item>Oslo, Norway</item>
+        <item>Paris, France</item>
+        <item>Patagonia, Chile</item>
+        <item>Perth, Australia</item>
+        <item>Photography</item>
+        <item>Picnicking</item>
+        <item>Porto, Portugal</item>
+        <item>Prague, Czech Republic</item>
+        <item>Quebec City, Canada</item>
+        <item>Rafting</item>
+        <item>Relaxing on the Beach</item>
+        <item>Rio de Janeiro, Brazil</item>
+        <item>Rome, Italy</item>
+        <item>Rotorua, New Zealand</item>
+        <item>Sailing</item>
+        <item>San Diego, California, USA</item>
+        <item>San Francisco, USA</item>
+        <item>San Miguel de Allende, Chile</item>
+        <item>Santorini, Greece</item>
+        <item>Santiago, Chile</item>
+        <item>Sightseeing</item>
+        <item>Sightseeing Tours</item>
+        <item>Siem Reap, Cambodia</item>
+        <item>Sicily, Italy</item>
+        <item>Singapore</item>
+        <item>Skiing</item>
+        <item>Snorkeling</item>
+        <item>Snowboarding</item>
+        <item>Soul, South Korea</item>
+        <item>Spa and Wellness</item>
+        <item>St. Lucia, Caribbean</item>
+        <item>St. Petersburg, Russia</item>
+        <item>Surfing</item>
+        <item>Sydney, Australia</item>
+        <item>Taj Mahal, India</item>
+        <item>Tasmania, Australia</item>
+        <item>Tennis</item>
+        <item>Thai Islands</item>
+        <item>Thailand</item>
+        <item>Tikal, Guatemala</item>
+        <item>Toledo, Spain</item>
+        <item>Travel Guides</item>
+        <item>Udaipur, India</item>
+        <item>Venice, Italy</item>
+        <item>Vienna, Austria</item>
+        <item>Vietnam</item>
+        <item>Washington D.C., USA</item>
+        <item>Wellington, New Zealand</item>
+        <item>Whale Watching</item>
+        <item>Wildlife Reserves</item>
+        <item>Wind Surfing</item>
+        <item>Wine Tasting</item>
+        <item>Yoga Retreats</item>
+        <item>Yogyakarta, Indonesia</item>
+        <item>Yosemite National Park, California, USA</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Other</item>
+    </string-array><string-array name="activity_list">
+        <item>-</item>
+        <item>Amusement Parks</item>
+        <item>Biking</item>
+        <item>Bird Watching</item>
+        <item>Boating</item>
+        <item>Botanical Gardens</item>
+        <item>Bungee Jumping</item>
+        <item>Camping</item>
+        <item>Canoeing</item>
+        <item>Cultural Tours</item>
+        <item>Cycling Tours</item>
+        <item>Festivals and Events</item>
+        <item>Fishing</item>
+        <item>Food Tasting</item>
+        <item>Golfing</item>
+        <item>Hiking</item>
+        <item>Historical Sites Visits</item>
+        <item>Hot Air Ballooning</item>
+        <item>Horseback Riding</item>
+        <item>Jet Skiing</item>
+        <item>Kayaking</item>
+        <item>Museums</item>
+        <item>Local Cuisine Cooking Classes</item>
+        <item>Local Markets</item>
+        <item>Nightlife</item>
+        <item>Opera and Theater</item>
+        <item>Photography</item>
+        <item>Picnicking</item>
+        <item>Rafting</item>
+        <item>Relaxing on the Beach</item>
+        <item>Rock Climbing</item>
+        <item>Scuba Diving</item>
+        <item>Shopping</item>
+        <item>Sightseeing</item>
+        <item>Sightseeing Tours</item>
+        <item>Skiing</item>
+        <item>Skydiving</item>
+        <item>Snorkeling</item>
+        <item>Snorkeling</item>
+        <item>Spa and Wellness</item>
+        <item>Surfing</item>
+        <item>Tennis</item>
+        <item>Whale Watching</item>
+        <item>Wildlife Reserves</item>
+        <item>Wine Tasting</item>
+        <item>Other</item>
+    </string-array><string-array name="reading_list">
+        <item>-</item>
+        <item>Art</item>
+        <item>Biographies</item>
+        <item>Business</item>
+        <item>Children Books</item>
+        <item>Cookbooks</item>
+        <item>Comics and Manga</item>
+        <item>Computers</item>
+        <item>Dictionaries</item>
+        <item>Education</item>
+        <item>Environment</item>
+        <item>Fashion</item>
+        <item>History</item>
+        <item>Novels</item>
+        <item>Poetry</item>
+        <item>Religion</item>
+        <item>Science</item>
+        <item>Self-Help</item>
+        <item>Travel Guides</item>
+    </string-array><string-array name="job_list">
+        <item>-</item>
+        <item>Student</item>
+        <item>Part-Time</item>
+        <item>Accountant</item>
+        <item>Aerospace Engineer</item>
+        <item>Architect</item>
+        <item>Art Director</item>
+        <item>Biomedical Engineer</item>
+        <item>Business Analyst</item>
+        <item>Chemical Engineer</item>
+        <item>Civil Engineer</item>
+        <item>Computer Programmer</item>
+        <item>Copywriter</item>
+        <item>Digital Marketing Specialist</item>
+        <item>Editor</item>
+        <item>Electrical Engineer</item>
+        <item>Executive Chef</item>
+        <item>Fashion Designer</item>
+        <item>Forensic Scientist</item>
+        <item>Front End Developer</item>
+        <item>Geologist</item>
+        <item>Interior Designer</item>
+        <item>Investment Analyst</item>
+        <item>Jazz Musician</item>
+        <item>Journalist</item>
+        <item>Landscape Architect</item>
+        <item>Librarian</item>
+        <item>Logistician</item>
+        <item>Market Research Analyst</item>
+        <item>Mathematician</item>
+        <item>Medical Illustrator</item>
+        <item>Network Administrator</item>
+        <item>Occupational Therapist</item>
+        <item>Optometrist</item>
+        <item>Photographer</item>
+        <item>Physicist</item>
+        <item>Product Manager</item>
+        <item>Psychologist</item>
+        <item>Quality Assurance Specialist</item>
+        <item>Radiation Therapist</item>
+        <item>Real Estate Agent</item>
+        <item>Research Scientist</item>
+        <item>Robotics Engineer</item>
+        <item>Security Analyst</item>
+        <item>Software Architect</item>
+        <item>Speech-Language Pathologist</item>
+        <item>Supply Chain Manager</item>
+        <item>Technical Writer</item>
+        <item>UX/UI Designer</item>
+        <item>Veterinarian</item>
+        <item>Video Game Developer</item>
+        <item>Wind Turbine Technician</item>
+        <item>X-Ray Technologist</item>
+        <item>Youth Counselor</item>
+        <item>Zoologist</item>
+        <item>Other</item>
+    </string-array><string-array name="bloodtype_list">
+        <item>-</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>Other</item>
+    </string-array><string-array name="answer_list">
+        <item>-</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array><string-array name="frequency_list">
+        <item>-</item>
+        <item>Not</item>
+        <item>Once a week</item>
+        <item>3 times a week</item>
+        <item>5 times a week</item>
+        <item>Every Day</item>
+    </string-array><string-array name="dayoff_list">
+        <item>-</item>
+        <item>Saturday and Sunday</item>
+        <item>Friday, Saturday, Sunday</item>
+        <item>Every Day</item>
+        <item>Other</item>
+    </string-array><string name="hello_blank_fragment">Hello blank fragment</string><string name="open_drawer">Open drawer</string><string name="close_drawer">Close drawer</string><string name="reload">Reload</string><string name="add_spot_to_first">Add spot to first</string><string name="add_spot_to_last">Add spot to last</string><string name="remove_spot_from_first">Remove spot from first</string><string name="remove_spot_from_last">Remove spot from last</string><string name="replace_first_spot">Replace first spot</string><string name="swap_first_for_last">Swap first for last</string></file><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\values\style.xml" qualifiers=""><style name="CustomSpinner" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:spinnerStyle">@style/spinnerStyle</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerDropDownItemStyle</item>
+    </style><style name="spinnerStyle" parent="android:Widget.Holo.Light.Spinner">
+        <item name="android:gravity">center</item>
+    </style><style name="spinnerDropDownItemStyle" parent="android:Widget.Holo.Light.DropDownItem.Spinner">
+        <item name="android:gravity">center</item>
+    </style><style name="CustomTheme.RightAlign" parent="CustomSpinner">
+        <item name="android:spinnerStyle">@style/spinnerStyle.RightAlign</item>
+        <item name="android:spinnerDropDownItemStyle">@style/spinnerDropDownItemStyle.RightAlign</item>
+    </style><style name="spinnerStyle.RightAlign" parent="spinnerStyle">
+        <item name="android:gravity">center_vertical|right</item>
+    </style><style name="spinnerDropDownItemStyle.RightAlign" parent="spinnerDropDownItemStyle">
+        <item name="android:gravity">center_vertical|right</item>
+    </style></file><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.BlurDatingApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+    </style><style name="Theme.BlurDatingApplication" parent="Base.Theme.BlurDatingApplication"/></file><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Base.Theme.BlurDatingApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">#FF9800</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style></file><file name="backup_rules" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\build\generated\res\resValues\debug"/><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\build\generated\res\processDebugGoogleServices"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\build\generated\res\resValues\debug"/><source path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\build\generated\res\processDebugGoogleServices"><file path="C:\Users\rtsun\AndroidStudioProjects\BlurDatingApp\app\build\generated\res\processDebugGoogleServices\values\values.xml" qualifiers=""><string name="gcm_defaultSenderId" translatable="false">1024721697532</string><string name="google_api_key" translatable="false">AIzaSyAf-yx5pTHqovxLhL_1O7kZwfiCxMQnGz0</string><string name="google_app_id" translatable="false">1:1024721697532:android:e764625864ae858e57f579</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyAf-yx5pTHqovxLhL_1O7kZwfiCxMQnGz0</string><string name="google_storage_bucket" translatable="false">blur-dating-application.appspot.com</string><string name="project_id" translatable="false">blur-dating-application</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res-processDebugGoogleServices" generated-set="res-processDebugGoogleServices$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
