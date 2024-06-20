@@ -1,4 +1,4 @@
-#Fri Apr 05 17:32:33 CDT 2024
+#Thu Jun 20 22:16:31 JST 2024
 base.0=C\:\\Users\\rtsun\\AndroidStudioProjects\\BlurDatingApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\rtsun\\AndroidStudioProjects\\BlurDatingApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\rtsun\\AndroidStudioProjects\\BlurDatingApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

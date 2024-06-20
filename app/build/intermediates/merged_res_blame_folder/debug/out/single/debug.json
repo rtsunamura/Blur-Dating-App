@@ -1,422 +1,426 @@
 [
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_item_spot.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/item_spot.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_body_type.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_body_type.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_weight.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_weight.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_next.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\next.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_traveling.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_traveling.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_workout.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_workout.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_setting.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_item_chatroom.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/item_chatroom.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_profit_monitoring.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_profit_monitoring.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_reading.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_reading.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_popup_image.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\popup_image.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.blurdatingapplication.app-pngs-37:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_send_button.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\send_button.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_drink.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_drink.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_verify_age.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_verify_age.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_verify_age.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_verify_age.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\home.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_dayoff.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_dayoff.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_ad_premium.png.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/ad_premium.png"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_all_user_profile.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_all_user_profile.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_chat.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_chat.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_explore.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_profile.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_profile.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_face.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_face.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_interest.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_interest.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_love_120.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_love_120.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_receive_message_edit.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/receive_message_edit.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_automatic_matching.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_automatic_matching.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_main.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_main.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_arrow_down.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\arrow_down.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_edit.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_edit.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_my_page.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_my_page.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_login.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_login.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_lens.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/lens.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_traveling.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_traveling.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_right_message_bg.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/right_message_bg.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_info.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_info.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_right_message_layout.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/right_message_layout.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_music.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_music.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_blood.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_blood.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_chatroom_model.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_chatroom_model.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_delete.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_delete.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\back.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_person_2.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/person_2.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_work.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_work.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_notification.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_dayoff.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_dayoff.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_smoking.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_smoking.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_user_info2.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_user_info2.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_manual_matching.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_manual_matching.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_notification.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/notification.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_activity.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_activity.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_interest.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_interest.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_back_button.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/back_button.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_edit_profile.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_user_profile.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_user_profile.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_weight.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_weight.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_activity.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_activity.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_likes_you.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_likes_you.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_child.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_child.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\menu\\navigation.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_bda_logo.png.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/bda_logo.png"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_gradation_black.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\gradation_black.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_workout.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_workout.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_user_info2.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_user_info2.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_back.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/back.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_left_message_bg.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\left_message_bg.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/xml_backup_rules.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_next.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/next.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_food.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_food.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_left_message_bg.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/left_message_bg.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_reading.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_reading.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_face.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_face.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_eye.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_eye.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_chat_room_model.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_chat_room_model.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_skip.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_skip.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_arrow_icon.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/arrow_icon.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_smoking.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_smoking.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_setting.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/setting.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_drink.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_drink.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_skip_120.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_skip_120.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_user_info.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_user_info.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_person.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/person.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_black_gradation.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\black_gradation.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_add_circle.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\add_circle.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_manual_matching.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_manual_matching.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_button_corner_20dp.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\button_corner_20dp.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_profile_physical_feature.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_profile_physical_feature.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_sport.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_sport.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_chatroom_model.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_chatroom_model.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_hair_color.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_hair_color.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_chat.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\chat.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_unread_count_background.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/unread_count_background.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_delete.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_delete.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_height.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_height.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_arrow_down.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/arrow_down.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_premium.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_premium.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_likes_you.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_likes_you.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_info.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_info.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_back_button.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\back_button.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_register.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_register.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\person.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_music.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_music.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_profile.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_profile.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_skip.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_skip.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_eye.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_eye.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\circle.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_chat.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_chat.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_send_message_edit.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\send_message_edit.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_profit_monitoring.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_profit_monitoring.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_item_spot.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\item_spot.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/menu_navigation.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/menu/navigation.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_user_profile.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_user_profile.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_gaming.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_gaming.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_add_circle.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/add_circle.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_blood.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_blood.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_automatic.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/automatic.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_bda_logo.png.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\bda_logo.png"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_home.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/home.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\fragment_chat.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_user_info.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_user_info.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_left_message_layout.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\left_message_layout.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_chat.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/chat.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_chat_room_model.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_chat_room_model.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_all_user_profile.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_all_user_profile.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_notification.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\notification.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_circular_background.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/circular_background.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_hair_color.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_hair_color.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_unblur_request_indicator.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/unblur_request_indicator.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_right_message_layout.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\right_message_layout.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_left_message_layout.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/left_message_layout.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_love.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_love.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_sport.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_sport.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_unread_count_background.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\unread_count_background.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_automatic_matching.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_automatic_matching.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_ad_premium.png.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\ad_premium.png"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_profile_physical_feature.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_profile_physical_feature.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_work.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_work.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_item_chatroom.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\item_chatroom.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_black_gradation.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/black_gradation.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_unblur_request_indicator.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\unblur_request_indicator.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_send_button.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/send_button.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_gaming.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_gaming.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_circle.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/circle.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_launch.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_food.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_food.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_skip_120.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_skip_120.xml"
+    },
+    {
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_height.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_height.xml"
     },
     {
         "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_my_page.xml.flat",
         "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_my_page.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_setting.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_setting.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_launch.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_launch.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_setting.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\setting.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_premium.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_premium.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_love_120.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_love_120.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_automatic.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\automatic.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_chat_messages.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/chat_messages.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_set_up_user_info3.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_set_up_user_info3.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_notification.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_notification.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_lens.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\lens.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_body_type.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_body_type.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_receive_message_edit.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\receive_message_edit.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_chat_messages.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\chat_messages.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_right_message_bg.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\right_message_bg.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_send_message_edit.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/send_message_edit.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\layout\\activity_chat.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_logo_love.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/logo_love.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-pngs-37:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_set_up_user_info3.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_set_up_user_info3.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_arrow_icon.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\arrow_icon.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_gradation_black.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/gradation_black.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_popup_image.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/popup_image.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_person_2.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\person_2.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_fragment_explore.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/fragment_explore.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_edit.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_edit.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/drawable_button_corner_20dp.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/drawable/button_corner_20dp.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_circular_background.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\circular_background.xml"
     },
     {
-        "merged": "com.example.blurdatingapplication.app-merged_res-42:/layout_activity_edit_profile.xml.flat",
-        "source": "com.example.blurdatingapplication.app-main-44:/layout/activity_edit_profile.xml"
+        "merged": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-merged_res-42:\\drawable_logo_child.xml.flat",
+        "source": "C:\\Users\\rtsun\\.gradle\\daemon\\8.0\\com.example.blurdatingapplication.app-main-44:\\drawable\\logo_child.xml"
     }
 ]
